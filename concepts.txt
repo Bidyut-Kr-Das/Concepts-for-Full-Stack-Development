@@ -1,0 +1,20 @@
+- loop 
+    for of
+    while - same as cpp concept
+    map() 
+    forEach()
+    filter()
+
+- object
+    - how can we store a function in object
+    - object destructuring
+
+- array 
+    - array destructuring
+
+
+promise:
+    - resolve and reject
+
+async await
+
