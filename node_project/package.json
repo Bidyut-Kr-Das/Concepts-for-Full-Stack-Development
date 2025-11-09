@@ -1,0 +1,20 @@
+{
+  "name": "tutorial_soumodipta",
+  "version": "1.0.0",
+  "description": "just learning node",
+  "license": "ISC",
+  "author": "soumodipta",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node anwesha/shreemoyee.ts",
+    "build": "tsc",
+    "start": "node soumodipta/shreemoyee.js"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
