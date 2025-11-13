@@ -1,0 +1,18 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "binary search implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/binSearch.js"
+  },
+  "author": "Soumodipta",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
